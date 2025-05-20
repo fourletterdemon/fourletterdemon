@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **nothing**
 
 - 📫 How to reach me **discord @fourletterdemon**
 
